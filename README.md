@@ -1,4 +1,4 @@
-# flow003-temperatura-grupa-
+# flow003-temperatura-grupal
 Este repositorio contiene el flow 3 de los ejercicios de Introducción a NodeRed.
 
 Este flow muestra la información de ID, temperatura y mensaje personalizado enviado por alumnos por MQTT.
