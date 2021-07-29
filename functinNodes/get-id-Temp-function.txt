@@ -1,0 +1,3 @@
+msg.topic = msg.payload.ID;
+msg.payload = msg.payload.Temp;
+return msg;
