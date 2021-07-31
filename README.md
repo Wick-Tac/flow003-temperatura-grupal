@@ -46,3 +46,4 @@ El nodo SWITCH debe ser configurado para contar con dos salidas segun el umbral 
 Los nodos CHANGE deben configurarse para enviar el mensaje que requiere el nodo SWITCH de la sección DASHBOARD (true/false) o lo que sea que se desee que el nodo de voz mencione.
 
 Por: [Hugo Vargas](https://github.com/hugoescalpelo)
+.
